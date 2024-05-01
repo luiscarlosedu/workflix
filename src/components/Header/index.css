@@ -1,0 +1,48 @@
+:root {
+    --color01: #171923;
+}
+
+header {
+    background: #171923;
+    display: flex;
+    width: 100%;
+    height: 10vh;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 6%;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+header a {
+    font-size: 1.4rem;
+    color: white;
+    text-decoration: none;
+}
+
+div.logo {
+    width: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+div.logo .logo-mark {
+    color: white;
+    font-size: 22px;
+}
+
+nav a {
+    border: 2px solid white;
+    padding: 5px 20px;
+    border-radius: 7px;
+    font-size: 18px;
+    transition: all .5s;
+}
+
+nav a:hover {
+    background: white;
+    color: var(--color01);
+}

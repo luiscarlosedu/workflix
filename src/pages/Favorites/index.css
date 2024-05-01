@@ -1,0 +1,64 @@
+.favorites-movies {
+    min-height: 100vh;
+    width: 100vw;
+    background-color: #171923;
+    display: flex;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dont-have-movies {
+    min-height: 100vh;
+    width: 100vw;
+    background-color: #171923;
+    display: flex;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+}
+
+.favorites-movies h1 {
+    margin-bottom: 14px;
+}
+
+.favorites-movies ul {
+    width: 720px;
+}
+
+.favorites-movies li {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    list-style: none;
+    margin-bottom: 14px;
+}
+
+.favorites-movies span {
+    font-size: 18px;
+}
+
+.favorites-movies li div a {
+    text-decoration: none;
+    margin-right: 14px;
+    color: #116feb;
+}
+
+.favorites-movies button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: .5s;    
+}
+
+.favorites-movies button:hover {
+    background-color: red;
+    color: white;
+}
+
+@media screen and (max-width: 795px) {
+    .favorites-movies ul {
+        width: 90%;
+    }
+}
