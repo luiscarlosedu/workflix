@@ -7,13 +7,9 @@ Este projeto foi criado com o intuito de colocar em prática meus conhecimentos 
 O objetivo do projeto foi criar uma interface funcional de uma plataforma de streaming, usando como tecnologia bibliotecas do JavaScript, sendo elas: **ReactJS**, **Axios** e **React-Router-Dom**. Além de englobar conceitos de como conectar uma API externa utilizando o ReactJS por meio da biblioteca Axios, estruturar layouts, posicionamento de elementos entre outros.
 
 ## Layout do projeto 🪄
-
-<<<<<<< HEAD
-![layout](./src/images/project-layout.png)
-
 =======
 ![Layout](/src/images/project-layout.png)
->>>>>>> b919d73ea8d4426fa9b3d8c878263ef7e9223fcf
+
 
 ## Tecnologia utilizada
 
