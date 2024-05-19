@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Este projeto foi criado com o intuito de colocar em prática meus conhecimentos adquiridos em ReactJS do curso [FullStack Pro](https://cursosemofertas.com.br/sujeitoprogramador/?gad_source=1&gclid=Cj0KCQjwxqayBhDFARIsAANWRnTxZeRhVj0ng23xhaUZiS3ROmfqi3c0byAiGEuvxyGr0B6yJ0UCZUUaAmGlEALw_wcB).
 
+O objetivo do projeto foi criar uma interface funcional de uma plataforma de streaming, usando como tecnologia bibliotecas do JavaScript, sendo elas: `ReactJS`, `Axios` e `React-Router-Dom`.
+
 ### `npm start`
 
 Runs the app in the development mode.\
