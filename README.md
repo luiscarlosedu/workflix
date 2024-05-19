@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Sobre o Projeto
 
-In the project directory, you can run:
+Este projeto foi criado com o intuito de colocar em prática meus conhecimentos adquiridos em ReactJS do curso [FullStack Pro](https://cursosemofertas.com.br/sujeitoprogramador/?gad_source=1&gclid=Cj0KCQjwxqayBhDFARIsAANWRnTxZeRhVj0ng23xhaUZiS3ROmfqi3c0byAiGEuvxyGr0B6yJ0UCZUUaAmGlEALw_wcB)
 
 ### `npm start`
 
