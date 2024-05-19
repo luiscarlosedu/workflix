@@ -1,4 +1,4 @@
-# Site de Streaming Fictício
+# Plataforma de Streaming
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Este projeto foi criado com o intuito de colocar em prática meus conhecimentos adquiridos em ReactJS do curso [FullStack Pro](https://cursosemofertas.com.br/sujeitoprogramador/?gad_source=1&gclid=Cj0KCQjwxqayBhDFARIsAANWRnTxZeRhVj0ng23xhaUZiS3ROmfqi3c0byAiGEuvxyGr0B6yJ0UCZUUaAmGlEALw_wcB).
 
-O objetivo do projeto foi criar uma interface funcional de uma plataforma de streaming, usando como tecnologia bibliotecas do JavaScript, sendo elas: **ReactJS**, **Axios** e **React-Router-Dom**.
+O objetivo do projeto foi criar uma interface funcional de uma plataforma de streaming, usando como tecnologia bibliotecas do JavaScript, sendo elas: **ReactJS**, **Axios** e **React-Router-Dom**. Além de englobar conceitos de como conectar uma API externa utilizando o ReactJS por meio da biblioteca Axios, estruturar layouts, posicionamento de elementos entre outros.
 
-### `npm start`
+## Layout do projeto
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
