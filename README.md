@@ -8,7 +8,7 @@ O objetivo do projeto foi criar uma interface funcional de uma plataforma de str
 
 ## Layout do projeto
 
-![Layout](/src/images/project-layout.png
+![Layout](/src/images/project-layout.png)
 
 ### `npm test`
 
