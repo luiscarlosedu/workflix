@@ -8,8 +8,12 @@ O objetivo do projeto foi criar uma interface funcional de uma plataforma de str
 
 ## Layout do projeto 🪄
 
+<<<<<<< HEAD
 ![layout](./src/images/project-layout.png)
 
+=======
+![Layout](/src/images/project-layout.png)
+>>>>>>> b919d73ea8d4426fa9b3d8c878263ef7e9223fcf
 
 ## Tecnologia utilizada
 
