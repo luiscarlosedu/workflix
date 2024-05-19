@@ -8,11 +8,7 @@ O objetivo do projeto foi criar uma interface funcional de uma plataforma de str
 
 ## Layout do projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Layout](/src/images/project-layout.png
 
 ### `npm test`
 
